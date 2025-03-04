@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH15-01-SQLite/CH15-01-SQLite.iml" filepath="$PROJECT_DIR$/CH15-01-SQLite/CH15-01-SQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH15-02-RealDataSQLite/CH15-02-RealDataSQLite.iml" filepath="$PROJECT_DIR$/CH15-02-RealDataSQLite/CH15-02-RealDataSQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH15-03-PhoneBook/CH15-03-PhoneBook.iml" filepath="$PROJECT_DIR$/CH15-03-PhoneBook/CH15-03-PhoneBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH15-04-ListCoffee/CH15-04-ListCoffee.iml" filepath="$PROJECT_DIR$/CH15-04-ListCoffee/CH15-04-ListCoffee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH15-04-SQLiteCP/CH15-04-SQLiteCP.iml" filepath="$PROJECT_DIR$/CH15-04-SQLiteCP/CH15-04-SQLiteCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH15-SQLite.iml" filepath="$PROJECT_DIR$/CH15-SQLite.iml" />
+    </modules>
+  </component>
+</project>

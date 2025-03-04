@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="21.0.3"><source path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/res"/></dataSet><dataSet config="main"><source path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res"><file name="desert" path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/drawable-mdpi/desert.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="icon" path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/drawable-mdpi/icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="safe_mode" path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/drawable-mdpi/safe_mode.png" qualifiers="mdpi-v4" type="drawable"/><file name="winter" path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/drawable-mdpi/winter.jpg" qualifiers="mdpi-v4" type="drawable"/><file path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/values/arrays.xml" qualifiers=""><string-array name="interest_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array><string-array name="background">
+        <item>Winter</item>
+        <item>Desert</item>
+    </string-array><string-array name="interest">
+        <item>看電影</item>
+        <item>閱讀</item>
+        <item>寫程式</item>
+    </string-array><string-array name="empty_array"/><string-array name="background_values">
+        <item>winter</item>
+        <item>desert</item>
+    </string-array></file><file path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Hello PreferenceActivity</string></file><file path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file name="preference" path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/xml/preference.xml" qualifiers="" type="xml"/></source><source path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/build/generated/res/rs/debug"/><source path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/debug/res"/></dataSet><mergedItems/></merger>

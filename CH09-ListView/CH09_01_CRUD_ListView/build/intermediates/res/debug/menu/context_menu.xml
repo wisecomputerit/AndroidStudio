@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/show"
+		android:title="Show" />
+	<item android:id="@+id/update"
+		android:title="Update" />
+	<item android:id="@+id/delete"
+		android:title="Delete" />
+</menu><!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH09-ListView/CH09_01_CRUD_ListView/src/main/res/menu/context_menu.xml -->

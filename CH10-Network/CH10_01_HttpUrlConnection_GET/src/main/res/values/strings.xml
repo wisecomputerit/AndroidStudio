@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HttpUrlConnection GET</string>
+    <string name="image_url_get">http://goo.gl/bL8Cyr</string>
+    
+</resources>

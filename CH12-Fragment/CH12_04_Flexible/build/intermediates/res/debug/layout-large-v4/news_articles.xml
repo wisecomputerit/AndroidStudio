@@ -1,0 +1,23 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:baselineAligned="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <fragment android:name="com.ch12.HeadlinesFragment"
+              android:id="@+id/headlines_fragment"
+              android:layout_weight="1"
+              android:layout_width="0dp"
+              android:layout_height="match_parent" />
+
+    <fragment android:name="com.ch12.ArticleFragment"
+              android:id="@+id/article_fragment"
+              android:layout_weight="2"
+              android:layout_width="0dp"
+              android:layout_height="match_parent" />
+
+</LinearLayout>
+
+
+<!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH12-Fragment/CH12_04_Flexible/src/main/res/layout-large/news_articles.xml -->

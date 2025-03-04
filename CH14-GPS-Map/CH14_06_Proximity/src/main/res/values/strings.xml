@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CH14_06_Proximity</string>
+    <string name="title_activity_prox_alert">Proximity</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+  <string name="hello">Volley 範例</string>
+  <string name="app_name">Volley 範例</string>
+  <string name="str_button1">Start 開始</string>
+  <string name="str_progress_message">載入資料！</string>
+  <string name="image_url">http://i135.photobucket.com/albums/q123/ccsalan92002/scenic_photo/D1.jpg</string>
+  
+</resources>

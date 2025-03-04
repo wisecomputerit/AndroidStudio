@@ -1,0 +1,12 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <android.support.v7.widget.RecyclerView
+	    android:id="@+id/my_recycler_view"
+	    android:scrollbars="vertical"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"/>
+    
+</LinearLayout><!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH09-ListView/CH09-06-RecyclerView/src/main/res/layout/activity_main.xml -->

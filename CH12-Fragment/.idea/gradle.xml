@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CH12_01_Lifecycle" />
+            <option value="$PROJECT_DIR$/CH12_02_Dyn" />
+            <option value="$PROJECT_DIR$/CH12_02_Lotto" />
+            <option value="$PROJECT_DIR$/CH12_02_PinCode" />
+            <option value="$PROJECT_DIR$/CH12_02_Static" />
+            <option value="$PROJECT_DIR$/CH12_03_DialogFragment" />
+            <option value="$PROJECT_DIR$/CH12_04_Flexible" />
+            <option value="$PROJECT_DIR$/CH12_05_ViewPagerIndicator" />
+            <option value="$PROJECT_DIR$/library" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

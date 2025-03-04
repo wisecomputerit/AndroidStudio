@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="interest">
+        <item>看電影</item>
+        <item>閱讀</item>
+        <item>寫程式</item>
+    </string-array>
+
+    <string-array name="interest_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="empty_array"/>
+    
+    <string-array name="background">
+        <item>Winter</item>
+        <item>Desert</item>
+    </string-array>
+
+    <string-array name="background_values">
+        <item>winter</item>
+        <item>desert</item>
+    </string-array>
+    
+    
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="分類(一)" >
+        <CheckBoxPreference
+            android:icon="@drawable/safe_mode"
+            android:key="apply_safemode"
+            android:title="安全模式"
+            android:summary="使用安全模式" />
+        <EditTextPreference
+            android:key="apply_lucknum"
+            android:title="幸運數字"
+            android:summary="請設定幸運數字" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="分類(二)" >
+        <MultiSelectListPreference
+            android:defaultValue="@array/empty_array"
+            android:dialogTitle="可複選"
+            android:entries="@array/interest"
+            android:entryValues="@array/interest_values"
+            android:key="apply_interest"
+            android:summary="請選擇興趣可複選"
+            android:title="興趣" />
+        <PreferenceScreen 
+            android:title="網站" 
+            android:summary="進入 http://www.android.com 網站" 
+            android:key="apply_internet">
+            <intent 
+                android:action="android.intent.action.VIEW"
+				android:data="http://www.android.com" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="其他..." >
+            <ListPreference
+                android:entries="@array/background"
+                android:entryValues="@array/background_values"
+                android:key="apply_bg"
+                android:summary="設定背景顏色"
+                android:title="背景顏色" />
+            <RingtonePreference
+                android:key="apply_ring"
+                android:ringtoneType="all"
+                android:showDefault="true"
+                android:showSilent="false"
+                android:summary="請選擇喜愛鈴聲"
+                android:title="鈴聲" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

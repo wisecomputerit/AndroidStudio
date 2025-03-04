@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH14-GPS-Map.iml" filepath="$PROJECT_DIR$/CH14-GPS-Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH14_01_LocationGPS/CH14_01_LocationGPS.iml" filepath="$PROJECT_DIR$/CH14_01_LocationGPS/CH14_01_LocationGPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH14_02_HelloMap I/CH14_02_HelloMap I.iml" filepath="$PROJECT_DIR$/CH14_02_HelloMap I/CH14_02_HelloMap I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH14_02_HelloMap II/CH14_02_HelloMap II.iml" filepath="$PROJECT_DIR$/CH14_02_HelloMap II/CH14_02_HelloMap II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH14_04_Marker/CH14_04_Marker.iml" filepath="$PROJECT_DIR$/CH14_04_Marker/CH14_04_Marker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH14_05_Drawing/CH14_05_Drawing.iml" filepath="$PROJECT_DIR$/CH14_05_Drawing/CH14_05_Drawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH14_06_Proximity/CH14_06_Proximity.iml" filepath="$PROJECT_DIR$/CH14_06_Proximity/CH14_06_Proximity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH14_07_StreetView/CH14_07_StreetView.iml" filepath="$PROJECT_DIR$/CH14_07_StreetView/CH14_07_StreetView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH14_08_DirectionsJSON/CH14_08_DirectionsJSON.iml" filepath="$PROJECT_DIR$/CH14_08_DirectionsJSON/CH14_08_DirectionsJSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH14_08_DirectionsWeb/CH14_08_DirectionsWeb.iml" filepath="$PROJECT_DIR$/CH14_08_DirectionsWeb/CH14_08_DirectionsWeb.iml" />
+    </modules>
+  </component>
+</project>

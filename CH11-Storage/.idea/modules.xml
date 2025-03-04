@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH11-Storage.iml" filepath="$PROJECT_DIR$/CH11-Storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH11_01_SharedPreference/CH11_01_SharedPreference.iml" filepath="$PROJECT_DIR$/CH11_01_SharedPreference/CH11_01_SharedPreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH11_02_PreferenceActivity/CH11_02_PreferenceActivity.iml" filepath="$PROJECT_DIR$/CH11_02_PreferenceActivity/CH11_02_PreferenceActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH11_03_ExternalStorage/CH11_03_ExternalStorage.iml" filepath="$PROJECT_DIR$/CH11_03_ExternalStorage/CH11_03_ExternalStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH11_03_FileAndCacheFile/CH11_03_FileAndCacheFile.iml" filepath="$PROJECT_DIR$/CH11_03_FileAndCacheFile/CH11_03_FileAndCacheFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH11_03_JSON/CH11_03_JSON.iml" filepath="$PROJECT_DIR$/CH11_03_JSON/CH11_03_JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

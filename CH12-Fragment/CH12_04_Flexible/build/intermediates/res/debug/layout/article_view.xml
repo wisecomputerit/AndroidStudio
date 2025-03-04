@@ -1,0 +1,7 @@
+<TextView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/article"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:textSize="18sp" /><!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH12-Fragment/CH12_04_Flexible/src/main/res/layout/article_view.xml -->

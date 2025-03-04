@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH12-Fragment.iml" filepath="$PROJECT_DIR$/CH12-Fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH12_01_Lifecycle/CH12_01_Lifecycle.iml" filepath="$PROJECT_DIR$/CH12_01_Lifecycle/CH12_01_Lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH12_02_Dyn/CH12_02_Dyn.iml" filepath="$PROJECT_DIR$/CH12_02_Dyn/CH12_02_Dyn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH12_02_Lotto/CH12_02_Lotto.iml" filepath="$PROJECT_DIR$/CH12_02_Lotto/CH12_02_Lotto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH12_02_PinCode/CH12_02_PinCode.iml" filepath="$PROJECT_DIR$/CH12_02_PinCode/CH12_02_PinCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH12_02_Static/CH12_02_Static.iml" filepath="$PROJECT_DIR$/CH12_02_Static/CH12_02_Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH12_03_DialogFragment/CH12_03_DialogFragment.iml" filepath="$PROJECT_DIR$/CH12_03_DialogFragment/CH12_03_DialogFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH12_04_Flexible/CH12_04_Flexible.iml" filepath="$PROJECT_DIR$/CH12_04_Flexible/CH12_04_Flexible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH12_05_ViewPagerIndicator/CH12_05_ViewPagerIndicator.iml" filepath="$PROJECT_DIR$/CH12_05_ViewPagerIndicator/CH12_05_ViewPagerIndicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>

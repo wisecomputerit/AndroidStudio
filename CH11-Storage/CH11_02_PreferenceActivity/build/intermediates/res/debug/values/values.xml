@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="background">
+        <item>Winter</item>
+        <item>Desert</item>
+    </string-array>
+    <string-array name="background_values">
+        <item>winter</item>
+        <item>desert</item>
+    </string-array>
+    <string-array name="empty_array"/>
+    <string-array name="interest">
+        <item>看電影</item>
+        <item>閱讀</item>
+        <item>寫程式</item>
+    </string-array>
+    <string-array name="interest_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Hello PreferenceActivity</string>
+    <!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH11-Storage/CH11_02_PreferenceActivity/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

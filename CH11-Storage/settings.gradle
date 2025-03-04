@@ -1,0 +1,6 @@
+include ':app'
+include ':CH11_01_SharedPreference'
+include ':CH11_02_PreferenceActivity'
+include ':CH11_03_FileAndCacheFile'
+include ':CH11_03_JSON'
+include ':CH11_03_ExternalStorage'

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Navigation Drawer Example</string>
+    <string name="drawer_open">開啓導航抽屜</string>
+    <string name="drawer_close">關閉導航抽屜</string>
+    <string name="description">Planet</string>
+</resources>

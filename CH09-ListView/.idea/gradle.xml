@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CH09-06-RecyclerView" />
+            <option value="$PROJECT_DIR$/CH09-06-RecyclerViewAndCardView" />
+            <option value="$PROJECT_DIR$/CH09_01_CRUD_ListView" />
+            <option value="$PROJECT_DIR$/CH09_01_FastfoodListViewI" />
+            <option value="$PROJECT_DIR$/CH09_02_FastfoodListViewII" />
+            <option value="$PROJECT_DIR$/CH09_03_SimpleAdapter_ListView" />
+            <option value="$PROJECT_DIR$/CH09_04_EvenBetterListActivity" />
+            <option value="$PROJECT_DIR$/CH09_05_ExpandableListView" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

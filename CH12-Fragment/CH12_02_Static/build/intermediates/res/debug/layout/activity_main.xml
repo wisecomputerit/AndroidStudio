@@ -1,0 +1,32 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/merry_christmas"
+        android:gravity="center"
+        android:layout_margin="5dp"/>
+    <LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" >
+	    <fragment
+	        android:id="@+id/fragment1"
+	        android:name="com.ch12.MyFragmentA"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_margin="5dp"/>
+        <fragment
+	        android:id="@+id/fragment2"
+	        android:name="com.ch12.MyFragmentB"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_margin="5dp"/>
+    </LinearLayout>  
+</LinearLayout>
+
+<!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH12-Fragment/CH12_02_Static/src/main/res/layout/activity_main.xml -->

@@ -1,0 +1,5 @@
+include ':CH15-01-SQLite'
+include ':CH15-02-RealDataSQLite'
+include ':CH15-03-PhoneBook'
+include ':CH15-04-SQLiteCP'
+include ':CH15-04-ListCoffee'

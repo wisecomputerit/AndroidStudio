@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView CRUD</string>
+    <string name="no_record">No record !</string>
+    <string name="add_text">ADD Record</string>
+</resources>

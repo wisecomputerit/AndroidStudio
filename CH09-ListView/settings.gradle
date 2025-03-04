@@ -1,0 +1,8 @@
+include ':app', ':CH09-06-RecyclerViewAndCardView'
+include ':CH09_01_CRUD_ListView'
+include ':CH09_01_FastfoodListViewI'
+include ':CH09_02_FastfoodListViewII'
+include ':CH09_03_SimpleAdapter_ListView'
+include ':CH09_04_EvenBetterListActivity'
+include ':CH09_05_ExpandableListView'
+include ':CH09-06-RecyclerView'

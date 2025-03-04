@@ -1,0 +1,2 @@
+include ':CH14_02_HelloMap I', ':CH14_02_HelloMap II', ':CH14_04_Marker', ':CH14_05_Drawing', ':CH14_06_Proximity', ':CH14_07_StreetView', ':CH14_08_DirectionsWeb', ':CH14_08_DirectionsJSON'
+include ':CH14_01_LocationGPS'

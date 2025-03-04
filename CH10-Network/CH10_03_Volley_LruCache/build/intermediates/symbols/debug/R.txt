@@ -1,0 +1,7 @@
+int drawable android_icon 0x7f020000
+int drawable empty_photo 0x7f020001
+int id photo 0x7f050001
+int id photo_wall 0x7f050000
+int layout activity_main 0x7f030000
+int layout photo_layout 0x7f030001
+int string app_name 0x7f040000

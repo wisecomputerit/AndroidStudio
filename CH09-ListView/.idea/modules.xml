@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH09-06-RecyclerView/CH09-06-RecyclerView.iml" filepath="$PROJECT_DIR$/CH09-06-RecyclerView/CH09-06-RecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09-06-RecyclerViewAndCardView/CH09-06-RecyclerViewAndCardView.iml" filepath="$PROJECT_DIR$/CH09-06-RecyclerViewAndCardView/CH09-06-RecyclerViewAndCardView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09-ListView.iml" filepath="$PROJECT_DIR$/CH09-ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09_01_CRUD_ListView/CH09_01_CRUD_ListView.iml" filepath="$PROJECT_DIR$/CH09_01_CRUD_ListView/CH09_01_CRUD_ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09_01_FastfoodListViewI/CH09_01_FastfoodListViewI.iml" filepath="$PROJECT_DIR$/CH09_01_FastfoodListViewI/CH09_01_FastfoodListViewI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09_02_FastfoodListViewII/CH09_02_FastfoodListViewII.iml" filepath="$PROJECT_DIR$/CH09_02_FastfoodListViewII/CH09_02_FastfoodListViewII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09_03_SimpleAdapter_ListView/CH09_03_SimpleAdapter_ListView.iml" filepath="$PROJECT_DIR$/CH09_03_SimpleAdapter_ListView/CH09_03_SimpleAdapter_ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09_04_EvenBetterListActivity/CH09_04_EvenBetterListActivity.iml" filepath="$PROJECT_DIR$/CH09_04_EvenBetterListActivity/CH09_04_EvenBetterListActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH09_05_ExpandableListView/CH09_05_ExpandableListView.iml" filepath="$PROJECT_DIR$/CH09_05_ExpandableListView/CH09_05_ExpandableListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

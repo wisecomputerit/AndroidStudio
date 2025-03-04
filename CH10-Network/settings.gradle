@@ -1,0 +1,8 @@
+include ':app'
+include ':CH10_01_HttpUrlConnection_GET'
+include ':CH10_01_HttpClient_POST'
+include ':CH10_02_SPDY_OkHttp11'
+include ':CH10_02_SPDY_OkHttp20'
+include ':CH10_03_Volley'
+include ':CH10_03_Volley_LruCache'
+include ':CH10_04_AsyncTask'
