@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/row"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <ImageView 
+        android:id="@+id/photo"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:contentDescription="@string/photo"
+        android:src="@drawable/empty_photo" />
+	
+	<View 
+        android:id="@+id/mask"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:background="#990000FF" />
+	
+</FrameLayout>
+
+<!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH08-Menu/CH08_06_CAB/src/main/res/layout/photo_layout.xml -->
