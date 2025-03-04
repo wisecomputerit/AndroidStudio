@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH06-View.iml" filepath="$PROJECT_DIR$/CH06-View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_01_ThemeMaterialDesign/CH06_01_ThemeMaterialDesign.iml" filepath="$PROJECT_DIR$/CH06_01_ThemeMaterialDesign/CH06_01_ThemeMaterialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_03_Button/CH06_03_Button.iml" filepath="$PROJECT_DIR$/CH06_03_Button/CH06_03_Button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_03_Check/CH06_03_Check.iml" filepath="$PROJECT_DIR$/CH06_03_Check/CH06_03_Check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_03_ProgressBar/CH06_03_ProgressBar.iml" filepath="$PROJECT_DIR$/CH06_03_ProgressBar/CH06_03_ProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_03_SeekAndRatingBar/CH06_03_SeekAndRatingBar.iml" filepath="$PROJECT_DIR$/CH06_03_SeekAndRatingBar/CH06_03_SeekAndRatingBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_03_TextView/CH06_03_TextView.iml" filepath="$PROJECT_DIR$/CH06_03_TextView/CH06_03_TextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_04_EditText/CH06_04_EditText.iml" filepath="$PROJECT_DIR$/CH06_04_EditText/CH06_04_EditText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_05_ImagesMedia/CH06_05_ImagesMedia.iml" filepath="$PROJECT_DIR$/CH06_05_ImagesMedia/CH06_05_ImagesMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_06_WebView/CH06_06_WebView.iml" filepath="$PROJECT_DIR$/CH06_06_WebView/CH06_06_WebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_07_FAB/CH06_07_FAB.iml" filepath="$PROJECT_DIR$/CH06_07_FAB/CH06_07_FAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_07_FAB2/CH06_07_FAB2.iml" filepath="$PROJECT_DIR$/CH06_07_FAB2/CH06_07_FAB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_08_Dialog/CH06_08_Dialog.iml" filepath="$PROJECT_DIR$/CH06_08_Dialog/CH06_08_Dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_09_Flip/CH06_09_Flip.iml" filepath="$PROJECT_DIR$/CH06_09_Flip/CH06_09_Flip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GH06_03_Spinner/GH06_03_Spinner.iml" filepath="$PROJECT_DIR$/GH06_03_Spinner/GH06_03_Spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aphidFlipViewLibrary/aphidFlipViewLibrary.iml" filepath="$PROJECT_DIR$/aphidFlipViewLibrary/aphidFlipViewLibrary.iml" />
+    </modules>
+  </component>
+</project>

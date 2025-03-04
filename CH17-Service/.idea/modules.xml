@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH17-01-ServiceList/CH17-01-ServiceList.iml" filepath="$PROJECT_DIR$/CH17-01-ServiceList/CH17-01-ServiceList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH17-02-StartService/CH17-02-StartService.iml" filepath="$PROJECT_DIR$/CH17-02-StartService/CH17-02-StartService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH17-03-BindService/CH17-03-BindService.iml" filepath="$PROJECT_DIR$/CH17-03-BindService/CH17-03-BindService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH17-04-Alarm/CH17-04-Alarm.iml" filepath="$PROJECT_DIR$/CH17-04-Alarm/CH17-04-Alarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH17-Service.iml" filepath="$PROJECT_DIR$/CH17-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

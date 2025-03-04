@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">SubMenu</string>
+    <string name="app_name">SubMenu</string>
+    <string name="message">請選擇飲品 ?</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notification</string>
+    <string name="image">train</string>
+    <string name="info">專用於普悠瑪列車的TEMU2000型電聯車是台鐵所引進的第二款傾斜式列車，由日本車輛製造，因其設計可讓普悠瑪列車在彎道上較非傾斜式列車快的速度行駛，在多彎的宜蘭線可大幅縮短行駛時間。不過相較於太魯閣號，普悠瑪列車傾斜角度小，所以搖晃較劇烈，乘客容易暈車。</string>
+</resources>

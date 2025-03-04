@@ -1,0 +1,1 @@
+include ':app', 'CH17-01-ServiceList', 'CH17-02-StartService', 'CH17-03-BindService', 'CH17-04-Alarm'

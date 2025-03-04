@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH23-Sensor.iml" filepath="$PROJECT_DIR$/CH23-Sensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH23_Sensor_Accelerometer/CH23_Sensor_Accelerometer.iml" filepath="$PROJECT_DIR$/CH23_Sensor_Accelerometer/CH23_Sensor_Accelerometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH23_Sensor_Light/CH23_Sensor_Light.iml" filepath="$PROJECT_DIR$/CH23_Sensor_Light/CH23_Sensor_Light.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH23_Sensor_List/CH23_Sensor_List.iml" filepath="$PROJECT_DIR$/CH23_Sensor_List/CH23_Sensor_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH23_Sensor_NewOrientation/CH23_Sensor_NewOrientation.iml" filepath="$PROJECT_DIR$/CH23_Sensor_NewOrientation/CH23_Sensor_NewOrientation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH23_Sensor_Proximity/CH23_Sensor_Proximity.iml" filepath="$PROJECT_DIR$/CH23_Sensor_Proximity/CH23_Sensor_Proximity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+    </modules>
+  </component>
+</project>

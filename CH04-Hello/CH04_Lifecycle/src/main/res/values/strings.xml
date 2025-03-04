@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Android Lifecycle!</string>
+    <string name="hello2">Hello NewActivity!</string>
+    <string name="app_name">Lifecycle</string>
+    <string name="app_name2">NewActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1_text">開啟新Activity</string>
+    <string name="button2_text">開啟 Alert Dialog (Activity)</string>
+    <string name="button3_text">開啟 Alert Dialog (AlertDialog)</string>  
+    <string name="button4_text">關閉Activity</string>  
+    <string name="button_dialog_text">Close</string> 
+    <string name="textview_dialog_text">Alert Dialog</string>   
+</resources>

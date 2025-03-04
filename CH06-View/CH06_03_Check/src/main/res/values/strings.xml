@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">檢核類組件</string>
+    <string name="checkbox_text">記住</string>
+    <string name="radio_man">男性</string>
+    <string name="radio_woman">女性</string>
+    <string name="switch_text">切換開關</string>
+    <string name="hambuger">漢堡</string>
+    <string name="on">開</string>
+    <string name="off">關</string>
+</resources>

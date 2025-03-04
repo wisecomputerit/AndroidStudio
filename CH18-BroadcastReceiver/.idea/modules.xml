@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH18-01-ScreenOnOff/CH18-01-ScreenOnOff.iml" filepath="$PROJECT_DIR$/CH18-01-ScreenOnOff/CH18-01-ScreenOnOff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH18-02-MP3Player/CH18-02-MP3Player.iml" filepath="$PROJECT_DIR$/CH18-02-MP3Player/CH18-02-MP3Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH18-03-OrderedAndSticky/CH18-03-OrderedAndSticky.iml" filepath="$PROJECT_DIR$/CH18-03-OrderedAndSticky/CH18-03-OrderedAndSticky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH18-BroadcastReceiver.iml" filepath="$PROJECT_DIR$/CH18-BroadcastReceiver.iml" />
+    </modules>
+  </component>
+</project>

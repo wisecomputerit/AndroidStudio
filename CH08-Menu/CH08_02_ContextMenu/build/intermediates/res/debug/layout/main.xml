@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+	<RelativeLayout
+	    android:id="@+id/layout1"
+	    android:layout_margin="10dp"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+	    android:background="#FF333333"
+	    android:orientation="vertical" >
+
+	    <TextView
+	        android:id="@+id/textView1"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_centerHorizontal="true"
+	        android:layout_centerVertical="true"
+	        android:layout_margin="10dp"
+	        android:gravity="center"
+	        android:text="@string/message1"
+	        android:drawableRight="@drawable/what"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textColor="#FFFF0000" />
+
+	</RelativeLayout>
+
+	<RelativeLayout
+	    android:id="@+id/layout2"
+	    android:layout_margin="10dp"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+	    android:background="#FF333333"
+	    android:orientation="vertical" >
+
+	    <TextView
+	        android:id="@+id/textView2"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_centerHorizontal="true"
+	        android:layout_centerVertical="true"
+	        android:layout_margin="10dp"
+	        android:gravity="center"
+	        android:text="@string/message2"
+	        android:drawableLeft="@drawable/what2"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textColor="#FFFFFF00" />
+
+	</RelativeLayout>
+		
+</LinearLayout>
+<!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH08-Menu/CH08_02_ContextMenu/src/main/res/layout/main.xml -->

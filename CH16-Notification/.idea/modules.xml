@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH16-01-BasicNotification/CH16-01-BasicNotification.iml" filepath="$PROJECT_DIR$/CH16-01-BasicNotification/CH16-01-BasicNotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH16-02-BigStyleNotification/CH16-02-BigStyleNotification.iml" filepath="$PROJECT_DIR$/CH16-02-BigStyleNotification/CH16-02-BigStyleNotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH16-03-CustomNotification/CH16-03-CustomNotification.iml" filepath="$PROJECT_DIR$/CH16-03-CustomNotification/CH16-03-CustomNotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH16-Notification.iml" filepath="$PROJECT_DIR$/CH16-Notification.iml" />
+    </modules>
+  </component>
+</project>

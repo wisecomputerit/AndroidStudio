@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMI</string>
+	<string name="bmi_height">請輸入身高？</string>
+	<string name="bmi_weight">請輸入體重？</string>
+	<string name="bmi_btn">計算：</string>
+	<string name="bmi_error_message">請輸入身高、體重</string>
+	<string name="bmi_image">bmi range chart</string>
+	<string name="bmi_image2">calculator</string>
+	<string name="bmi_low">偏低</string>
+	<string name="bmi_normal">正常</string>
+	<string name="bmi_high">偏高</string>
+	<string name="bmi_overhigh">過高</string>
+	<string name="bmi_value_error">BMI 參數錯誤</string>
+	<string name="bmi_record">BMI 記錄：</string>
+</resources>

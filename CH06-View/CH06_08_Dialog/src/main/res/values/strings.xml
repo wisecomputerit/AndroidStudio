@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dialog 組件</string>
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+    <string name="exit">確定要離開?</string>
+    <string name="like_android">你喜歡Android行動裝置嗎?</string>
+    <string name="like">喜歡</string>
+    <string name="not">不喜歡</string>
+    <string name="no_idea">沒意見</string>
+    <string name="input_code">請輸入代號：</string>
+    <string name="code">代號：</string>
+	<string name="image_url">https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNq1jyaU4T8N74W7Gv2sqKDmDXBwS-AI2l99bUu4KZumzkuEe_</string>
+    
+    <string name="button_text1">1.雙鍵式對話框</string>
+    <string name="button_text2">2.多鍵式對話框</string>
+    <string name="button_text3">3.輸入型對話框</string>
+    <string name="button_text4">4.單選項型對話框</string>
+    <string name="button_text5">5.多選項型對話框</string>
+    <string name="button_text6">6.列表型對話框</string>
+    <string name="button_text7">7.自定佈局對話框</string>
+    <string name="button_text8">8.進度型對話框</string>
+    <string name="lucky_num">幸運數字</string>
+    <string name="lucky_init_text">請按[幸運數字]鈕</string>
+    
+    <string-array name="drink">
+        <item>紅茶</item>
+        <item>咖啡</item>
+        <item>牛奶</item>
+    </string-array>
+    
+    <string-array name="food">
+        <item>漢堡</item>
+        <item>排骨飯</item>
+        <item>義大利麵</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_margin="10sp"
+        android:backgroundTint="#FF0000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:entries="@array/country"
+        android:entryValues="@array/country_code" />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_margin="10sp"
+        android:backgroundTint="#0000FF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    
+    <Spinner
+        android:id="@+id/spinner3"
+        android:layout_margin="10sp"
+        android:backgroundTint="#005100"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

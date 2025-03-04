@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Web組件</string>
+    <string name="button_text">前往</string>
+    <string name="url">http://m.udn.com/xhtml/index.jsp</string>
+    
+</resources>

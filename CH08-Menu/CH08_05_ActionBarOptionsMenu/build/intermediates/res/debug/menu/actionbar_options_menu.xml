@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_game"
+          android:icon="@drawable/game"
+          android:title="Game"
+          android:showAsAction="ifRoom">
+       	<menu>
+            <item android:id="@+id/game1"
+                  android:title="Mario" />
+            <item android:id="@+id/game2"
+                  android:title="Sonic" />
+        </menu>
+    </item>
+    <item 
+          android:id="@+id/menu_close"
+          android:title="Quit"
+          android:showAsAction="always">
+	</item> 
+	   
+</menu><!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH08-Menu/CH08_05_ActionBarOptionsMenu/src/main/res/menu/actionbar_options_menu.xml -->

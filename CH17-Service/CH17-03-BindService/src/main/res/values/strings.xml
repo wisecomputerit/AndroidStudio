@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CH17-03-BindService</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">START Bind SERVICE</string>
+    <string name="stop">STop Bind SERVICE</string>
+</resources>

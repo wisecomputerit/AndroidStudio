@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	<Button 
+		android:text="已配對藍芽設備" 
+		android:id="@+id/scanBoundBtn" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content">
+	</Button>
+	<TextView  
+	    android:text=""
+		android:id="@+id/devicesInfo_1"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	/>
+	<Button 
+		android:text="尋找藍芽設備" 
+		android:id="@+id/scanBtn" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content">
+	</Button>
+	<TextView  
+	    android:text=""
+		android:id="@+id/devicesInfo_2"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	/>
+	<Button 
+		android:text="開啟藍芽許可要求" 
+		android:id="@+id/disBtn" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content">
+	</Button>
+</LinearLayout>

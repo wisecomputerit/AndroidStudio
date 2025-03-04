@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CH20-AppWidget</string>
+    <string name="mlb_url">http://tw.sports.yahoo.com/mlb/mlb_team_index/teamid/</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

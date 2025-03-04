@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message1">點飲料 ?</string>
+    <string name="message2">點甜點 ?</string>
+    <string name="app_name">ContextMenu</string>
+</resources>

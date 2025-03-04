@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">按鈕類組件</string>
+    <string name="button_text">我是 [Button]</string>
+    <string name="togglebutton_text">我是 [Toggle Button]</string>
+    <string name="on_text">開啟</string>
+    <string name="off_text">關閉</string>
+    
+</resources>

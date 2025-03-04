@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CH05 IntentAction</string>
+    <string name="benz">給我 Benz</string>
+    <string name="bmw">給我 BMW</string>
+    <string name="car">給我一台車</string>
+   
+</resources>

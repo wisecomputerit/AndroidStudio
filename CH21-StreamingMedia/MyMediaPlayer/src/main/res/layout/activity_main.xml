@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	<TextView  
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+    	android:text="播放進度"
+    />
+	<SeekBar android:id="@+id/SeekBar01" 
+	    android:max="100"
+			android:layout_width="fill_parent" android:layout_height="wrap_content">
+	</SeekBar>
+	<Button android:text="Start" android:id="@+id/Button01" 
+	    android:onClick="onClick"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+	</Button>
+	<Button android:text="Pause" android:id="@+id/Button02" 
+	    android:onClick="onClick"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+	</Button>
+	<Button android:text="Stop" android:id="@+id/Button03" 
+	    android:onClick="onClick"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+	</Button>
+	<TextView  
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+    	android:text="聲音大小"
+    />
+	<SeekBar android:id="@+id/SeekBar02" 
+			android:layout_width="fill_parent" android:layout_height="wrap_content">
+	</SeekBar>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/nothing_on_you" />
+
+
+</LinearLayout>

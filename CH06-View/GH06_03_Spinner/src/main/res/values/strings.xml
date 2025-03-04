@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">選擇類 Spinner 組件</string>
+    
+    <string-array name="country">
+		<item>台灣</item>
+		<item>日本</item>
+		<item>韓國</item>
+		<item>泰國</item>
+		<item>印尼</item>
+	</string-array>
+	
+    <string-array name="country_code">
+		<item>+886</item>
+		<item>+81</item>
+		<item>+82</item>
+		<item>+66</item>
+		<item>+62</item>
+	</string-array>
+    
+    <string-array name="planets_array">
+        <item>Mercury 水星</item>
+        <item>Venus 金星</item>
+        <item>Earth 地球</item>
+        <item>Mars 火星</item>
+        <item>Jupiter 木星</item>
+        <item>Saturn 土星</item>
+        <item>Uranus 天王星</item>
+        <item>Neptune 海王星</item>
+    </string-array>
+    
+</resources>

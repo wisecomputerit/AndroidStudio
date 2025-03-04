@@ -1,0 +1,5 @@
+include ':CH23_Sensor_List', ':myapplication'
+include ':CH23_Sensor_Proximity'
+include ':CH23_Sensor_Light'
+include ':CH23_Sensor_Accelerometer'
+include ':CH23_Sensor_NewOrientation'

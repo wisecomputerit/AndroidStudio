@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/round"
+    android:id="@+id/awlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mlb" />
+
+        <TextView
+            android:id="@+id/team"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dip"
+            android:textColor="#ffff0000"
+            android:textStyle="bold"
+            android:text="No Data !" />
+
+        <TextView
+            android:id="@+id/uptime"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffaaaaaa"
+            android:textSize="10dip"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="No Data !" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffffff"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="排名" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffffff"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="勝 - 敗" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffffff"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="勝率" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffffff"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="打擊率" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffffff"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="防禦率" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/order"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff00"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="No Data !" />
+
+        <TextView
+            android:id="@+id/vs"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff00"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="No Data !" />
+
+        <TextView
+            android:id="@+id/rate"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff00"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="No Data !" />
+
+        <TextView
+            android:id="@+id/f_rate"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff00"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="No Data !" />
+
+        <TextView
+            android:id="@+id/d_rate"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff00"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="No Data !" />
+    </LinearLayout>
+
+
+</LinearLayout>

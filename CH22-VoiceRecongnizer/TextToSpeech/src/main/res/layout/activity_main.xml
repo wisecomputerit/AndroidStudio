@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Text To Speech"
+        android:padding="15dip"
+        android:textColor="#0587d9"
+        android:textSize="26dip"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Android world"
+        android:layout_marginTop="20dip"
+        android:layout_margin="10dip"/>
+
+    <Button
+        android:layout_gravity="center"
+        android:onClick="onClick"
+        android:id="@+id/talkBtn"
+        android:drawableTop="@drawable/user_chat_gray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        android:text="Click me to talk" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<ripple 
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:color="?android:colorControlHighlight">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="?android:colorAccent" />
+        </shape>
+    </item>
+    
+</ripple>
+
+<!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH05-Intent/CH05_05_ActivityTransitions/src/main/res/drawable-mdpi/ripple.xml -->

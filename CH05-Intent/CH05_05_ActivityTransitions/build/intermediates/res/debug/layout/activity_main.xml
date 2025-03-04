@@ -1,0 +1,73 @@
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:adjustViewBounds="true"
+            android:onClick="onClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/taiwan"
+            android:transitionName="@string/taiwan"
+            android:tag="@string/taiwan"
+            android:layout_marginBottom="1sp"
+            android:src="@drawable/banner1" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:adjustViewBounds="true"
+            android:onClick="onClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/sanya"
+            android:transitionName="@string/sanya"
+            android:tag="@string/sanya"
+            android:layout_marginBottom="1sp"
+            android:src="@drawable/banner2" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:adjustViewBounds="true"
+            android:onClick="onClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/chengde"
+            android:transitionName="@string/chengde"
+            android:tag="@string/chengde"
+            android:layout_marginBottom="1sp"
+            android:src="@drawable/banner3" />
+
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:adjustViewBounds="true"
+            android:onClick="onClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/great_wall"
+            android:transitionName="@string/great_wall"
+            android:tag="@string/great_wall"
+            android:layout_marginBottom="1sp"
+            android:src="@drawable/banner4" />
+
+        <ImageButton
+            android:id="@+id/imageButton5"
+            android:adjustViewBounds="true"
+            android:onClick="onClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/chong_cing"
+            android:transitionName="@string/chong_cing"
+            android:tag="@string/chong_cing"
+            android:src="@drawable/banner5" />
+        
+    </LinearLayout>
+
+</ScrollView><!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH05-Intent/CH05_05_ActivityTransitions/src/main/res/layout/activity_main.xml -->

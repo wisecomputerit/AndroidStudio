@@ -1,0 +1,7 @@
+include ':CH05_02_IntentAction'
+include ':CH05_02_BMI'
+include ':CH05_03_BMI'
+include ':CH05_04_CallPhone'
+include ':CH05_04_Camera'
+include ':CH05_04_Share'
+include ':CH05_05_ActivityTransitions'

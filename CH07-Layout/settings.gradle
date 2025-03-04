@@ -1,0 +1,6 @@
+include ':app'
+include ':CH07_02_LinearLayout'
+include ':CH07_03_TableLayout'
+include ':CH07_04_RelativeLayout'
+include ':CH07_05_FrameLayout'
+include ':CH07_06_GridLayout'

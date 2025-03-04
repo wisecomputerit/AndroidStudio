@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="finish">拍照完畢</string>
+    <string name="phone">相機</string>
+</resources>

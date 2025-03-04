@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">調整類組件</string>
+    <string name="get_seekbar_value">取得Seekbar值</string>
+    <string name="get_ratingbar_value">取得Ratingbar值</string>
+    
+</resources>

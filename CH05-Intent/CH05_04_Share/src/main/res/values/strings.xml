@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Share</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_text">請輸入要分享的文字</string>
+	<string name="share_text">分享文字</string>
+	<string name="share_image">分享圖片</string>
+	<string name="share">請選擇分享對象</string>
+	
+</resources>

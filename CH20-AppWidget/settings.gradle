@@ -1,0 +1,3 @@
+include ':WidgetMLB', ':WidgetClock'
+project(':WidgetClock').projectDir = new File('WidgetTimer')
+project(':WidgetMLB').projectDir = new File('app')

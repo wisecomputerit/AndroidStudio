@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH04-Hello.iml" filepath="$PROJECT_DIR$/CH04-Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH04_Lifecycle/CH04_Lifecycle.iml" filepath="$PROJECT_DIR$/CH04_Lifecycle/CH04_Lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloAndroid/HelloAndroid.iml" filepath="$PROJECT_DIR$/HelloAndroid/HelloAndroid.iml" />
+    </modules>
+  </component>
+</project>

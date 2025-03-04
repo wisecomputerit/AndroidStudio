@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH26-Recognizer.iml" filepath="$PROJECT_DIR$/CH26-Recognizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recognizer-Speech/Recognizer-Speech.iml" filepath="$PROJECT_DIR$/Recognizer-Speech/Recognizer-Speech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinVoice/SinVoice.iml" filepath="$PROJECT_DIR$/SinVoice/SinVoice.iml" />
+    </modules>
+  </component>
+</project>

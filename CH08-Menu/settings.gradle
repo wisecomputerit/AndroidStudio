@@ -1,0 +1,7 @@
+include ':app'
+include ':CH08_01_OptionsMenu'
+include ':CH08_02_ContextMenu'
+include ':CH08_03_SubMenu'
+include ':CH08_04_XMLMenu'
+include ':CH08_05_ActionBarOptionsMenu'
+include ':CH08_06_CAB'

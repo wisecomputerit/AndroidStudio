@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH08-Menu/CH08_03_SubMenu/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">SubMenu</string>
+    <string name="hello">SubMenu</string>
+    <string name="message">請選擇飲品 ?</string>
+</resources>

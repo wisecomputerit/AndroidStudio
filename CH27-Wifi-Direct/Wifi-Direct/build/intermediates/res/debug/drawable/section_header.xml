@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <stroke
+        android:width="2dp"
+        android:color="@color/layout_border_color" />
+
+    <padding
+        android:left="10dp"
+        android:top="5dp"
+        android:right="10dp"
+        android:bottom="2dp" />
+    <corners
+        android:radius="2dp" />
+</shape>
+<!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH27-Wifi-Direct/Wifi-Direct/src/main/res/drawable/section_header.xml -->

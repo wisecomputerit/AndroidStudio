@@ -1,0 +1,58 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/checkbox_text" />
+    
+    <CheckedTextView
+        android:id="@+id/checkedTv1"
+        android:checked="true"
+        android:layout_margin="10dp"
+        android:gravity="center_vertical"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hambuger" />
+    
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <RadioButton
+            android:id="@+id/radio1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/radio_man" />
+        <RadioButton
+            android:id="@+id/radio2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radio_woman" />
+    </RadioGroup>
+    
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_margin="10dp"
+        android:textOn="@string/on"
+        android:textOff="@string/off"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/switch_text" />
+
+    <CheckedTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New CheckedTextView"
+        android:id="@+id/checkedTextView" />
+
+</LinearLayout><!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH06-View/CH06_03_Check/src/main/res/layout/activity_main.xml -->

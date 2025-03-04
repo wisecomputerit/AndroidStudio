@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CH05_02_BMI" />
+            <option value="$PROJECT_DIR$/CH05_02_IntentAction" />
+            <option value="$PROJECT_DIR$/CH05_03_BMI" />
+            <option value="$PROJECT_DIR$/CH05_04_CallPhone" />
+            <option value="$PROJECT_DIR$/CH05_04_Camera" />
+            <option value="$PROJECT_DIR$/CH05_04_Share" />
+            <option value="$PROJECT_DIR$/CH05_05_ActivityTransitions" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

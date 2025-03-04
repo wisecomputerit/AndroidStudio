@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">股價警示</string>
+    <string name="stock_no">2330</string>
+    <string name="stock_no_hint">請輸入股票代號</string>
+    <string name="setup_alarm">Setup Alarm</string>
+    <string name="remove_alarm">Remove Alarm</string>
+</resources>

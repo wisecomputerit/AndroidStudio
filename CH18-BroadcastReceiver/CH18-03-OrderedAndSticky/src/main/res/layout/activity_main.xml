@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:text="Ordered Broadcast"
+        android:layout_margin="5dp"
+        android:id="@+id/orderedBroadcastBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick">
+    </Button>
+    <Button
+        android:text="Sticky Broadcast"
+        android:layout_margin="5dp"
+        android:id="@+id/stickyBroadcastBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick">
+    </Button>
+    <Button
+        android:text="Register receiver C"
+        android:layout_margin="5dp"
+        android:id="@+id/newActivityBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick">
+    </Button>
+
+</LinearLayout>
+

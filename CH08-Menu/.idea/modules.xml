@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH08-Menu.iml" filepath="$PROJECT_DIR$/CH08-Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH08_01_OptionsMenu/CH08_01_OptionsMenu.iml" filepath="$PROJECT_DIR$/CH08_01_OptionsMenu/CH08_01_OptionsMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH08_02_ContextMenu/CH08_02_ContextMenu.iml" filepath="$PROJECT_DIR$/CH08_02_ContextMenu/CH08_02_ContextMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH08_03_SubMenu/CH08_03_SubMenu.iml" filepath="$PROJECT_DIR$/CH08_03_SubMenu/CH08_03_SubMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH08_04_XMLMenu/CH08_04_XMLMenu.iml" filepath="$PROJECT_DIR$/CH08_04_XMLMenu/CH08_04_XMLMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH08_05_ActionBarOptionsMenu/CH08_05_ActionBarOptionsMenu.iml" filepath="$PROJECT_DIR$/CH08_05_ActionBarOptionsMenu/CH08_05_ActionBarOptionsMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH08_06_CAB/CH08_06_CAB.iml" filepath="$PROJECT_DIR$/CH08_06_CAB/CH08_06_CAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

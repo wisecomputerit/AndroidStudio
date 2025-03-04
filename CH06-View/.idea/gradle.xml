@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CH06_01_ThemeMaterialDesign" />
+            <option value="$PROJECT_DIR$/CH06_03_Button" />
+            <option value="$PROJECT_DIR$/CH06_03_Check" />
+            <option value="$PROJECT_DIR$/CH06_03_ProgressBar" />
+            <option value="$PROJECT_DIR$/CH06_03_SeekAndRatingBar" />
+            <option value="$PROJECT_DIR$/CH06_03_TextView" />
+            <option value="$PROJECT_DIR$/CH06_04_EditText" />
+            <option value="$PROJECT_DIR$/CH06_05_ImagesMedia" />
+            <option value="$PROJECT_DIR$/CH06_06_WebView" />
+            <option value="$PROJECT_DIR$/CH06_07_FAB" />
+            <option value="$PROJECT_DIR$/CH06_07_FAB2" />
+            <option value="$PROJECT_DIR$/CH06_08_Dialog" />
+            <option value="$PROJECT_DIR$/CH06_09_Flip" />
+            <option value="$PROJECT_DIR$/GH06_03_Spinner" />
+            <option value="$PROJECT_DIR$/aphidFlipViewLibrary" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

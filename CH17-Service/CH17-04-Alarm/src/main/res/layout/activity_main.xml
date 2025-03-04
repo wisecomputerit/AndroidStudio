@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20pt"
+        android:hint="@string/stock_no_hint"
+        android:text="@string/stock_no"
+        android:id="@+id/stockNoBtn" />
+
+    <Button
+        android:text="@string/setup_alarm"
+        android:layout_margin="2dp"
+        android:id="@+id/setupAlarmBtn"
+        android:onClick="onClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="@string/remove_alarm"
+        android:layout_margin="2dp"
+        android:id="@+id/removeAlarmBtn"
+        android:onClick="onClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/stock_ticker_large"
+        android:id="@+id/imageView" />
+
+</LinearLayout>

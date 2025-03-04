@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH06-View/CH06_07_FAB/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-h720dp-v13/values.xml -->
+    <eat-comment/>
+    <dimen name="abc_alert_dialog_button_bar_height">54dip</dimen>
+</resources>

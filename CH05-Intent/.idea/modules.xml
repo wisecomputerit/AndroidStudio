@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH05-Intent.iml" filepath="$PROJECT_DIR$/CH05-Intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_02_BMI/CH05_02_BMI.iml" filepath="$PROJECT_DIR$/CH05_02_BMI/CH05_02_BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_02_IntentAction/CH05_02_IntentAction.iml" filepath="$PROJECT_DIR$/CH05_02_IntentAction/CH05_02_IntentAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_03_BMI/CH05_03_BMI.iml" filepath="$PROJECT_DIR$/CH05_03_BMI/CH05_03_BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_04_CallPhone/CH05_04_CallPhone.iml" filepath="$PROJECT_DIR$/CH05_04_CallPhone/CH05_04_CallPhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_04_Camera/CH05_04_Camera.iml" filepath="$PROJECT_DIR$/CH05_04_Camera/CH05_04_Camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_04_Share/CH05_04_Share.iml" filepath="$PROJECT_DIR$/CH05_04_Share/CH05_04_Share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_05_ActivityTransitions/CH05_05_ActivityTransitions.iml" filepath="$PROJECT_DIR$/CH05_05_ActivityTransitions/CH05_05_ActivityTransitions.iml" />
+    </modules>
+  </component>
+</project>

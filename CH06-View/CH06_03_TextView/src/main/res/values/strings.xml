@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">文字類組件</string>
+    <string name="default_text">我是：[預設 TextView]</string>
+    <string name="large_text">我是：[Large TextView]</string>
+    <string name="medium_text">我是：[Medium TextView]</string>
+    <string name="small_text">我是：[Small TextView]</string>
+    
+</resources>

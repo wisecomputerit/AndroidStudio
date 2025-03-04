@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH21-StreamingMedia.iml" filepath="$PROJECT_DIR$/CH21-StreamingMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMediaPlayer/MyMediaPlayer.iml" filepath="$PROJECT_DIR$/MyMediaPlayer/MyMediaPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMediaStreaming/MyMediaStreaming.iml" filepath="$PROJECT_DIR$/MyMediaStreaming/MyMediaStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPiano/MyPiano.iml" filepath="$PROJECT_DIR$/MyPiano/MyPiano.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YoutubeAPIDemo/YoutubeAPIDemo.iml" filepath="$PROJECT_DIR$/YoutubeAPIDemo/YoutubeAPIDemo.iml" />
+    </modules>
+  </component>
+</project>

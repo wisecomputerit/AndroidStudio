@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH20-AppWidget.iml" filepath="$PROJECT_DIR$/CH20-AppWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WidgetTimer/WidgetClock.iml" filepath="$PROJECT_DIR$/WidgetTimer/WidgetClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/WidgetMLB.iml" filepath="$PROJECT_DIR$/app/WidgetMLB.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_margin="10sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:onClick="onClick"
+        android:text="@string/button_text" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton1"
+        android:layout_margin="10sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOn="@string/on_text"
+        android:textOff="@string/off_text"
+        android:text="@string/togglebutton_text" />
+    
+    <QuickContactBadge
+        android:id="@+id/email_badge"
+        android:layout_margin="10sp"
+        android:layout_width="wrap_content"
+        android:src="@drawable/mail"
+        android:layout_height="wrap_content" />
+
+    <QuickContactBadge
+        android:id="@+id/phone_badge"
+        android:layout_margin="10sp"
+        android:layout_width="wrap_content"
+        android:src="@drawable/phone"
+        android:layout_height="wrap_content" />    
+</LinearLayout>

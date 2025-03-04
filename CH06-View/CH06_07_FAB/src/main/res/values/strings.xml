@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Floating Action Button</string>
+    <string name="content_description1">龜山島</string>
+	<string name="content_description2">FAB</string>
+	<string name="gueishan_island">龜山島，又稱龜山嶼，最早的名字叫煙斗嶼；國際海圖名稱為五獅嶼[1]，頭城人常稱為龜島或龜嶼。台灣外海、太平洋中的島嶼，位於蘭陽平原東面的太平洋上一座火山島。因外型似浮龜而得名。東西寬3.1公里，南北長1.6公里，面積2.841平方公里，海岸線長9公里，直線距離台灣本島的梗枋漁港約9.1公里，距離烏石港約10公里。[2]行政區隸屬於宜蘭縣頭城鎮，原為龜山里，後因遷村而併入大溪里。</string>
+    
+</resources>

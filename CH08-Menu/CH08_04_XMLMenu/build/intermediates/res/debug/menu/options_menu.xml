@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/new_game"
+		android:icon="@drawable/ic_menu_add"
+		android:title="New Game">
+		<!-- submenu -->
+		<menu>
+			<item android:id="@+id/mario" android:title="Mario" />
+			<item android:id="@+id/sonic" android:title="Sonic" />
+		</menu>
+	</item>
+	<item android:id="@+id/quit"
+		android:icon="@drawable/ic_menu_close_clear_cancel"
+		android:title="Quit" />
+</menu><!-- From: file:/Users/vincent_mac/Dropbox/book/Android_Book/GoTop(ACL042900)/CDROM/AndroidStudio/CH08-Menu/CH08_04_XMLMenu/src/main/res/menu/options_menu.xml -->

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">多媒體控制組件</string>
+    <string name="image_desc1">Android ImageView</string>
+    <string name="image_desc2">Android ImageButton</string>
+    <string name="rstp">rtsp://184.72.239.149/vod/mp4:BigBuckBunny_115k.mov</string>
+</resources>

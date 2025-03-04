@@ -1,0 +1,18 @@
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ch19">
+    <application android:allowBackup="true" android:label="@string/app_name"
+        android:icon="@drawable/icon_clock" android:theme="@style/AppTheme">
+        <receiver android:name="com.ch19.MainWidget">
+            <meta-data android:name="android.appwidget.provider"
+                android:resource="@xml/appwidget_provider" />
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>
+
+
+
+
